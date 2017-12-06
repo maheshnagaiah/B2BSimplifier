@@ -1,0 +1,10 @@
+c:\users\prkakani\documents\visual studio 2017\Projects\B2BSimplifier\B2BSimplifier\bin\Debug\B2BSimplifier.exe.config
+c:\users\prkakani\documents\visual studio 2017\Projects\B2BSimplifier\B2BSimplifier\bin\Debug\B2BSimplifier.exe
+c:\users\prkakani\documents\visual studio 2017\Projects\B2BSimplifier\B2BSimplifier\bin\Debug\B2BSimplifier.pdb
+c:\users\prkakani\documents\visual studio 2017\Projects\B2BSimplifier\B2BSimplifier\obj\Debug\B2BSimplifier.csprojResolveAssemblyReference.cache
+c:\users\prkakani\documents\visual studio 2017\Projects\B2BSimplifier\B2BSimplifier\obj\Debug\B2BSimplifier.frmMain.resources
+c:\users\prkakani\documents\visual studio 2017\Projects\B2BSimplifier\B2BSimplifier\obj\Debug\B2BSimplifier.Properties.Resources.resources
+c:\users\prkakani\documents\visual studio 2017\Projects\B2BSimplifier\B2BSimplifier\obj\Debug\B2BSimplifier.csproj.GenerateResource.Cache
+c:\users\prkakani\documents\visual studio 2017\Projects\B2BSimplifier\B2BSimplifier\obj\Debug\B2BSimplifier.csproj.CoreCompileInputs.cache
+c:\users\prkakani\documents\visual studio 2017\Projects\B2BSimplifier\B2BSimplifier\obj\Debug\B2BSimplifier.exe
+c:\users\prkakani\documents\visual studio 2017\Projects\B2BSimplifier\B2BSimplifier\obj\Debug\B2BSimplifier.pdb
